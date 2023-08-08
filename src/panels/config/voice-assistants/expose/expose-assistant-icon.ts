@@ -52,7 +52,7 @@ export class VoiceAssistantExposeAssistantIcon extends LitElement {
           ? html`
               <simple-tooltip
                 animation-delay="0"
-                position="top"
+                position="left"
                 offset="4"
                 fitToVisibleBounds
               >
